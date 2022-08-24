@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "liveServer.settings.port": 3000,
+    "liveServer.settings.root": "/",
+    "liveServer.settings.showOnStatusbar": false,
+    "livePreview.debugOnExternalPreview": true
+}
