@@ -25,9 +25,6 @@ const spring = {
 };
 
 export default function App() {
-  // 设置数字颜色
-  // const [textColor, setTextColor] = useState("#bcbacb");
-
   // 设置当前数字
   const [currentOperand, setCO] = useState("");
   // 设置前一个数字
